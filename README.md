@@ -2,5 +2,6 @@
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me - Just mail me sagnikdhar26@gmail.com
+-    Linkedin link - https://www.linkedin.com/in/sagnik-dhar-6a51a4327/
 - 💻 Resume - 
 - 💻 Portfolio - 
